@@ -1,0 +1,34 @@
+[
+    {
+        "HUMANOID": {
+            "AUTO": 1,
+            "PUNCH": 1.15,
+            "SHOOT": 1.5
+        },
+        "ANIMAL": {
+            "BITE": 1,
+            "COUNTER": 1.15,
+            "SWIPE": 1.5
+
+        },
+        "PLAYER" : {
+            "LIGHT SWING" : 1.15,
+            "GUARD BREAK" : 1.25,
+            "HEAVY SWING" : 2.5,
+            "MANA BOLT": 1.15,
+            "SELF HEAL": 1.25,
+            "GENESIS":2.25,
+            "ENERGY BOLT": 1.15,
+            "ICE BLAST": 1.25,
+            "FIRE STORM":3.5,
+            "STAR SHOT":1.15,
+            "STEAL": 1.15,
+            "TRIPLE STAB":3
+        },
+        "MYTHICAL" :{
+            "LIFE DRAIN" : 1.25,
+            "DARK MATTER BOLT":1.75,
+            "BLACK HOLE":2
+        }
+    }
+]

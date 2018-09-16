@@ -1,0 +1,81 @@
+[{
+    "BASIC HELMET": {
+        "DEFENSE": 5,
+        "POWER" : 0,
+        "MANA" : 0,
+        "HEALTH" : 0,
+        "GOLD" : 50
+    },
+    "BASIC CHESTPLATE": {
+        "DEFENSE": 10,
+        "POWER" : 0,
+        "MANA" : 0,
+        "HEALTH" : 0,
+        "GOLD" : 75
+    },
+
+    "BASIC BOOTS": {
+        "DEFENSE": 3,
+        "POWER" : 0,
+        "MANA" : 0,
+        "HEALTH" : 0,
+        "GOLD" : 25
+    },
+    "BASIC LONGSWORD": {
+        "POWER": 10,
+        "HEALTH": 10,
+        "DEFENSE": 0,
+        "MANA" : 0,
+        "GOLD" : 100
+    },
+    "BASIC WAND": {
+        "POWER": 10,
+        "MANA": 25,
+        "HEALTH": 0,
+        "DEFENSE": 0,
+        "GOLD" : 100
+    },
+    "BASIC STAFF": {
+        "POWER": 15,
+        "MANA": 0,
+        "HEALTH": 0,
+        "DEFENSE": 0,
+        "GOLD" : 100
+    },
+    "BASIC KNIFE": {
+        "POWER": 15,
+        "MANA": 0,
+        "HEALTH": 0,
+        "DEFENSE": 0,
+        "GOLD" : 100
+    },
+    "BRONZE LONGSWORD":{
+        "POWER": 20,
+        "MANA": 0,
+        "HEALTH": 20,
+        "DEFENSE": 0,
+        "GOLD" : 150
+    },
+    "METAL WAND":{
+        "POWER": 20,
+        "MANA": 50,
+        "HEALTH": 0,
+        "DEFENSE": 0,
+        "GOLD" : 150
+    },
+    "WOODEN STAFF":{
+        "POWER": 35,
+        "MANA": 0,
+        "HEALTH": 0,
+        "DEFENSE": 0,
+        "GOLD" : 150
+    },
+    "BUTTERFLY KNIFE":{
+        "POWER": 35,
+        "MANA": 0,
+        "HEALTH": 0,
+        "DEFENSE": 0,
+        "GOLD" : 150
+    }
+}
+]

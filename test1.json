@@ -1,0 +1,356 @@
+[
+  {
+    "NAME": "KYS",
+    "PASS": "dik",
+    "HEALTH": 151.0,
+    "MANA": 100,
+    "GOLD": 75,
+    "POWER": 115,
+    "MISSION": 5,
+    "DEFENSE": 33,
+    "MOVES": [
+      {
+        "energy bolt": [
+          29.0,
+          0
+        ],
+        "ice blast": [
+          38.0,
+          15
+        ],
+        "fire storm": [
+          857.0,
+          50
+        ]
+      }
+    ],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "BASIC CHESTPLATE",
+      "WEAPON": "BASIC STAFF",
+      "BOOTS": "NONE"
+    },
+    "CLASS": "mage"
+  },
+  {
+    "NAME": "niggerlickker",
+    "PASS": "12345",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "KYS",
+    "PASS": "dik",
+    "HEALTH": 151.0,
+    "MANA": 100,
+    "GOLD": 75,
+    "POWER": 115,
+    "MISSION": 5,
+    "DEFENSE": 33,
+    "MOVES": [
+      {
+        "energy bolt": [
+          29.0,
+          0
+        ],
+        "ice blast": [
+          38.0,
+          15
+        ],
+        "fire storm": [
+          857.0,
+          50
+        ]
+      }
+    ],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "BASIC CHESTPLATE",
+      "WEAPON": "BASIC STAFF",
+      "BOOTS": "NONE"
+    },
+    "CLASS": "mage"
+  },
+  {
+    "NAME": "k",
+    "PASS": "k",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "k",
+    "PASS": "k",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "k",
+    "PASS": "k",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  },
+  {
+    "NAME": "Edge",
+    "PASS": "89",
+    "HEALTH": 0,
+    "MANA": 0,
+    "GOLD": 50,
+    "POWER": 0,
+    "MISSION": 0,
+    "DEFENSE": 0,
+    "MOVES": [],
+    "ARMOR": {
+      "HELMET": "NONE",
+      "CHEST": "NONE",
+      "WEAPON": "NONE",
+      "BOOTS": "NONE"
+    },
+    "CLASS": ""
+  }
+]

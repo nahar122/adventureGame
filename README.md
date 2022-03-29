@@ -1,6 +1,6 @@
 # adventureGame
 
-This is a console based adventure game with pokemon-inspired turn based combat that I created using an object-oriented approach. 
+This is a console based adventure game with pokemon-inspired turn based combat that using an object-oriented approach. 
 
 The 'test.json' file contains the local login information of each user that has been created.
 The 'item_list.json' file contains all the items in the game along with their stats and purchase costs.
